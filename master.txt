@@ -1,0 +1,2 @@
+2021-07-17 12:36:38,349 INFO i-0d98104d5607bb295: new instance started
+2021-07-17 12:36:40,246 INFO i-0f3b929806f4ea52a: new instance started
